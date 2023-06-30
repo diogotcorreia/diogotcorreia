@@ -50,6 +50,12 @@ For projects that include LaTeX reports, the generated PDFs are attached to the 
   - Project: [diogotcorreia/picktru-ams](https://github.com/diogotcorreia/picktru-ams)
 - RC
   - Project (Hangman) and Labs: [diogotcorreia/computer-networks](https://github.com/diogotcorreia/computer-networks)
+- SD
+  - Project (Distributed Ledger): [diogotcorreia/dist-ledger-sd](https://github.com/diogotcorreia/dist-ledger-sd)
+- Comp
+  - Project (MML Compiler): [ist199211-ist199311/mml-compiler-co](https://github.com/ist199211-ist199311/mml-compiler-co)
+- CG
+  - Projects (Transformer Robot + UFO) [interro-potato-hippo/project-cg](https://github.com/interro-potato-hippo/project-cg)
 
 
 ## Project Testing

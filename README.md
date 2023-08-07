@@ -6,7 +6,8 @@ My name is Diogo Correia. I currently live in Lisbon, Portugal!
 - 👨‍💻 Open source ftw
 - 🌐 Visit my [website and portfolio][website]
 - 📜 Check out my [CV][cv]
-- 🎓 Studying Computer Science (LEIC) at Instituto Superior Técnico
+- 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico
+- 🎓 Studying Cybersecurity at KTH Royal Institute of Technology
 - 🏳️ CTF Player at [Security Team @ Técnico](https://sectt.github.io)
 
 ## Tools and Languages

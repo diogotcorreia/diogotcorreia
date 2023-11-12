@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Diogo Correia. I currently live in Lisbon, Portugal!
+My name is Diogo Correia. I currently live in Stockholm, Sweden!
 
 - 🏃 I love running
 - 👨‍💻 Open source ftw
 - 🌐 Visit my [website and portfolio][website]
 - 📜 Check out my [CV][cv]
-- 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico
-- 🎓 Studying Cybersecurity at KTH Royal Institute of Technology
+- 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico, Lisbon, Portugal
+- 🎓 Studying Cybersecurity at KTH Royal Institute of Technology, Stockholm, Sweden
 - 🏳️ CTF Player at [Security Team @ Técnico](https://sectt.github.io)
 
 ## Tools and Languages

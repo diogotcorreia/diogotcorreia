@@ -9,6 +9,7 @@ My name is Diogo Correia. I currently live in Stockholm, Sweden!
 - 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico, Lisbon, Portugal
 - 🎓 Studying Cybersecurity at KTH Royal Institute of Technology, Stockholm, Sweden
 - 🏳️ CTF Player at [Security Team @ Técnico](https://sectt.github.io)
+- 🏳️ CTF Player at [RoyalRoppers](https://royalroppers.team/)
 
 ## Tools and Languages
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]

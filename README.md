@@ -3,8 +3,9 @@
 My name is Diogo Correia. I currently live in Stockholm, Sweden!
 
 - 🏃 I love running
-- 👨‍💻 Open source ftw
+- 👨‍💻 Free software ftw
 - 🌐 Visit my [website and portfolio][website]
+- ✍️ Read my [blog][blog]
 - 📜 Check out my [CV][cv]
 - 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico, Lisbon, Portugal
 - 🎓 Studying Cybersecurity at KTH Royal Institute of Technology, Stockholm, Sweden
@@ -12,14 +13,17 @@ My name is Diogo Correia. I currently live in Stockholm, Sweden!
 - 🏳️ CTF Player at [RoyalRoppers](https://royalroppers.team/)
 
 ## Tools and Languages
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
+
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/linux/linux.png" />][github]
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png" />][github]
+[<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/neovim/neovim.png" />][github]
+[<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/nix/nix.png" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/java/java.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/python/python.png" />][github]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/react/react.png" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/html/html.png" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/css/css.png" />][github]
 
 <br />
 
@@ -31,4 +35,5 @@ My name is Diogo Correia. I currently live in Stockholm, Sweden!
 
 [github]: https://github.com/diogotcorreia
 [website]: https://diogotc.com
+[blog]: https://diogotc.com/blog
 [cv]: https://cv.diogotc.com

@@ -29,9 +29,9 @@ My name is Diogo Correia. I currently live in Stockholm, Sweden!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogotcorreia&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diogotcorreia&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogotcorreia&theme=nord&count_private=true&hide=Jupyter%20Notebook)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=diogotcorreia&theme=nord&count_private=true&hide=Jupyter%20Notebook)
 
 [github]: https://github.com/diogotcorreia
 [website]: https://diogotc.com
